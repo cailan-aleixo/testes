@@ -1,1 +1,14 @@
-
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+p {
+    color:red;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: lightseagreen;
+}
